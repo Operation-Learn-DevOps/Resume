@@ -23,7 +23,7 @@
 ## Technology
   Very comfortable with Windows OS\
   Built multiple computers with OS install and overclocking\
-  Some experience with Arduino hardware and software\
+  Some experience with Arduino hardware and software
   
 ## Work Experience
 Crew Member - Chipotle Mexican Grill (June 2016 - February 2017)
