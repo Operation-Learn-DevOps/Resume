@@ -9,9 +9,9 @@
 * Adept in communication and interpersonal relations
 
 ## __Education__
-MiraCosta College (Spring 2017 - Current)  
+MiraCosta College (Spring 2017 - Current)\
   * Lib Arts: Math and Sciences (AA), Est. Spring 2018, Current GPA 3.9
-Mission Vista High School (August 2012 – June 2016)  
+Mission Vista High School (August 2012 – June 2016)\
   * High School Diploma, Honors list, Maintained a 3.5 GPA and higher
   
 ## Relevant Coursework
@@ -20,9 +20,9 @@ Mission Vista High School (August 2012 – June 2016)
   * CS 112: Introduction to Computer Science II: Java
 
 ## Technology
-  Very comfortable with Windows OS  
-  Built multiple computers with OS install and overclocking  
-  Some experience with Arduino hardware and software  
+  Very comfortable with Windows OS\
+  Built multiple computers with OS install and overclocking\
+  Some experience with Arduino hardware and software\
   
 ## Work Experience
 Crew Member - Chipotle Mexican Grill (June 2016 - February 2017)
