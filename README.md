@@ -1,44 +1,46 @@
 # Carsten Singleton
-  carstensing@gmail.com
+[LinkedIn](https://www.linkedin.com/in/carsten-singleton/)
+[GitHub](https://github.com/carstensing)
 
-## __Summary of Qualifications__
-* Experienced in customer relations and troubleshooting customer concerns
-* Effective time management with ability to multitask and prioritize responsibilities
-* Skilled working in a team environment and able to hurdle difficult tasks while maintaining high standards
-* Ready and able to learn new skills in all areas
-* Adept in communication and interpersonal relations
+---
+## __Relevant Skills__
+* Strong written and verbal skills both in-person and via electronic communication, including written documents, phone communication, and emails.
+* Effective time management with ability to multitask and prioritize 
+responsibilities.
+* Skilled at working in and across teams to hurdle difficult tasks while maintaining high standards.
+* Ready and able to learn new skills in all areas.
+* Experience working with diverse communities and communicating respectfully and inclusively during all interactions.
 
 ## __Education__
-**MiraCosta College** (Spring 2017 - Current)
-  * Lib Arts: Math and Sciences (AA), Est. Spring 2018, Current GPA 3.9
-  
-**Mission Vista High School** (August 2012 – June 2016)
-  * High School Diploma, Honors list, Maintained a 3.5 GPA and higher
-  
-## Relevant Coursework
-  * CS 150: C++ Programming
-  * CS 111: Introduction to Computer Science I: Java
-  * CS 112: Introduction to Computer Science II: Java
+**University of California San Diego** (Sept. 2019 – Mar. 2022)
+  * B.S. Computer Science, GPA 3.63
 
-## Technology
-  Very comfortable with Windows OS\
-  Built multiple computers with OS install and overclocking\
-  Some experience with Arduino hardware and software
+**MiraCosta College** (Jan. 2017 – Jul. 2019)
+  * A.A. Liberal Arts Emphasis in Mathematics and Sciences, GPA 3.96
   
-## Work Experience
-Crew Member - Chipotle Mexican Grill (June 2016 - February 2017)
-  * Collaborated with team members on how to be more efficient when serving our customers
-  * Created an extraordinary customer experience by positive interactions and excellent food
-  * Executed food safety and restaurant regulations through high working standards
+## __Work Experience__
+**COVID Positive Employee Coordinator**, UC San Diego Emergency Operations Center, La Jolla CA (Feb. 2022 – Current)
 
-Student Ambassador - MiraCosta College (August 2017 - June 2018)
-  * Visit local schools, meet with prospective students and provide information regarding the programs and services offered at    
-        MiraCosta College
-  * Support the MiraCosta President’s office in community, Board of Trustees, and Donor events
-  * Educate potential MiraCosta students and guests by providing welcoming and informative campus tours
-  
-Math Tutor - MiraCosta College (Fall 2018 - Current) 
-  * Built and maintained relations with students to foster a positive learning enviornment 
-  * Simplified math concepts and coached students through difficult problems
-  * Conducted group review sessions for exams and quizes
+* Providing COVID-19 management support to the Campus Emergency Operations Center (EOC) by tracking positive employee cases as a member of the EOC OCC team. This includes providing guidance to supervisors, coordinating disinfection/cleaning of campus facilities as needed, maintaining an employee tracking database, adding facility locations to the campus dashboard where positive individuals spent time during their infectious period and providing information to the campus COVID-19 wastewater monitoring team. As a member of the EOC, I also respond to email inquiries to the EOC, providing guidance to the campus community.
 
+* Created a Python script to improve the readability and organization of the Return to Learn Workplace Exposure Table for users and database staff.
+
+* Work collaboratively and liaison with Contact Tracing, EH&S, EOC, FM teams, supervisors, and employees.
+
+**Math Tutor**, MiraCosta College Math Learning Center, Oceanside CA (Aug. 2018 – May 2019)
+
+* Provided academic assistance to MiraCosta students studying algebra, trigonometry, and calculus via drop-in tutoring or individual/group appointments.
+
+* Communicated difficult and unfamiliar technical concepts to students of all proficiency levels in a respectful and inclusive manner.
+
+* Instilled healthy work ethics and developmental techniques to set groundwork for success in the classroom.
+
+
+
+**Student Ambassador**, MiraCosta College Outreach, Oceanside CA (Aug. 2017 – Jun. 2018)
+
+* Visited local schools to meet with prospective students to guide and provide information regarding the programs and services offered at MiraCosta College.
+
+* Supported the MiraCosta President's office in the community, Board of Trustees, and Donor events.
+
+* Educated potential MiraCosta students and guests by providing welcoming and informative campus tours.
